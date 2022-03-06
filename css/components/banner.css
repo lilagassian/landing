@@ -1,0 +1,21 @@
+.banner {
+	background-image: url(../../images/beatlesbanner.jpeg);
+	color: white;
+	padding: 70px 0px;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+
+}
+
+.banner h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: red;
+	margin-top: 130px;
+	opacity: 1;
+	margin-bottom: 30px;
+
+}
